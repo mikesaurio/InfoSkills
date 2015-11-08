@@ -1,0 +1,1173 @@
+{
+    "name": "Data",
+    "children": [
+        {
+            "name": "Master's degree",
+            "children": [
+                {
+                    "name": "Recruiting"
+                },
+                {
+                    "name": "Organizational..."
+                },
+                {
+                    "name": "Entrevistas"
+                },
+                {
+                    "name": "Consultoría"
+                }
+            ]
+        },
+        {
+            "name": "Administración de Empresas",
+            "children": [
+                {
+                    "name": "Recruiting"
+                },
+                {
+                    "name": "Organizational..."
+                },
+                {
+                    "name": "Entrevistas"
+                },
+                {
+                    "name": "Consultoría"
+                }
+            ]
+        },
+        {
+            "name": "Lic. en Periodismo",
+            "children": [
+                {
+                    "name": "Análisis de Información"
+                },
+                {
+                    "name": "Ventas Consultivas"
+                },
+                {
+                    "name": "Advertising"
+                },
+                {
+                    "name": "Social Media"
+                }
+            ]
+        },
+        {
+            "name": "Diplomado",
+            "children": [
+                {
+                    "name": "Advertising"
+                },
+                {
+                    "name": "CRM"
+                },
+                {
+                    "name": "Digital Marketing"
+                },
+                {
+                    "name": "Digital Strategy"
+                }
+            ]
+        },
+        {
+            "name": "Diplomado",
+            "children": [
+                {
+                    "name": "Advertising"
+                },
+                {
+                    "name": "CRM"
+                },
+                {
+                    "name": "Digital Marketing"
+                },
+                {
+                    "name": "Digital Strategy"
+                }
+            ]
+        },
+        {
+            "name": "Licenciado en mercadotecnia",
+            "children": [
+                {
+                    "name": "Advertising"
+                },
+                {
+                    "name": "CRM"
+                },
+                {
+                    "name": "Digital Marketing"
+                },
+                {
+                    "name": "Digital Strategy"
+                }
+            ]
+        },
+        {
+            "name": "Master of Applied Statistics",
+            "children": [
+                {
+                    "name": "Matlab"
+                },
+                {
+                    "name": "Simulations"
+                },
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Mathematical Modeling"
+                }
+            ]
+        },
+        {
+            "name": "M. Eng.",
+            "children": [
+                {
+                    "name": "Matlab"
+                },
+                {
+                    "name": "Simulations"
+                },
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Mathematical Modeling"
+                }
+            ]
+        },
+        {
+            "name": "Engineer",
+            "children": [
+                {
+                    "name": "Matlab"
+                },
+                {
+                    "name": "Simulations"
+                },
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Mathematical Modeling"
+                }
+            ]
+        },
+        {
+            "name": "Post-Graduate",
+            "children": [
+                {
+                    "name": "Business Intelligence"
+                },
+                {
+                    "name": "Cloud Computing"
+                },
+                {
+                    "name": "SaaS"
+                },
+                {
+                    "name": "Solution Selling"
+                }
+            ]
+        },
+        {
+            "name": "Technical Counselor",
+            "children": [
+                {
+                    "name": "Business Intelligence"
+                },
+                {
+                    "name": "Cloud Computing"
+                },
+                {
+                    "name": "SaaS"
+                },
+                {
+                    "name": "Solution Selling"
+                }
+            ]
+        },
+        {
+            "name": "Master",
+            "children": [
+                {
+                    "name": "Business Intelligence"
+                },
+                {
+                    "name": "Cloud Computing"
+                },
+                {
+                    "name": "SaaS"
+                },
+                {
+                    "name": "Solution Selling"
+                }
+            ]
+        },
+        {
+            "name": "Bachelor",
+            "children": [
+                {
+                    "name": "Business Intelligence"
+                },
+                {
+                    "name": "Cloud Computing"
+                },
+                {
+                    "name": "SaaS"
+                },
+                {
+                    "name": "Solution Selling"
+                }
+            ]
+        },
+        {
+            "name": "HIGH SCHOOL",
+            "children": [
+                {
+                    "name": "Business Intelligence"
+                },
+                {
+                    "name": "Cloud Computing"
+                },
+                {
+                    "name": "SaaS"
+                },
+                {
+                    "name": "Solution Selling"
+                }
+            ]
+        },
+        {
+            "name": "Bachelor of Engineering (B.E.)",
+            "children": [
+                {
+                    "name": "Agile Application..."
+                },
+                {
+                    "name": "Legacy Modernization"
+                },
+                {
+                    "name": "Cloud Applications"
+                },
+                {
+                    "name": "Change Management"
+                }
+            ]
+        },
+        {
+            "name": "Ingeniero en Computacion",
+            "children": [
+                {
+                    "name": "Agile Application..."
+                },
+                {
+                    "name": "Legacy Modernization"
+                },
+                {
+                    "name": "Cloud Applications"
+                },
+                {
+                    "name": "Change Management"
+                }
+            ]
+        },
+        {
+            "name": "Engineer's degree",
+            "children": [
+                {
+                    "name": "Agile Application..."
+                },
+                {
+                    "name": "Legacy Modernization"
+                },
+                {
+                    "name": "Cloud Applications"
+                },
+                {
+                    "name": "Change Management"
+                }
+            ]
+        },
+        {
+            "name": "MBA",
+            "children": [
+                {
+                    "name": "E-commerce"
+                },
+                {
+                    "name": "Business Development"
+                },
+                {
+                    "name": "Strategic Planning"
+                },
+                {
+                    "name": "Start-ups"
+                }
+            ]
+        },
+        {
+            "name": "Diploma",
+            "children": [
+                {
+                    "name": "E-commerce"
+                },
+                {
+                    "name": "Business Development"
+                },
+                {
+                    "name": "Strategic Planning"
+                },
+                {
+                    "name": "Start-ups"
+                }
+            ]
+        },
+        {
+            "name": "BS.",
+            "children": [
+                {
+                    "name": "E-commerce"
+                },
+                {
+                    "name": "Business Development"
+                },
+                {
+                    "name": "Strategic Planning"
+                },
+                {
+                    "name": "Start-ups"
+                }
+            ]
+        },
+        {
+            "name": "Postgraduate in Strategic Planning",
+            "children": [
+                {
+                    "name": "CISM"
+                },
+                {
+                    "name": "CISA"
+                },
+                {
+                    "name": "IT Audit"
+                },
+                {
+                    "name": "Information Security..."
+                }
+            ]
+        },
+        {
+            "name": "Master of Business Administration (M.B.A.)",
+            "children": [
+                {
+                    "name": "CISM"
+                },
+                {
+                    "name": "CISA"
+                },
+                {
+                    "name": "IT Audit"
+                },
+                {
+                    "name": "Information Security..."
+                }
+            ]
+        },
+        {
+            "name": "Ingeniero",
+            "children": [
+                {
+                    "name": "CISM"
+                },
+                {
+                    "name": "CISA"
+                },
+                {
+                    "name": "IT Audit"
+                },
+                {
+                    "name": "Information Security..."
+                }
+            ]
+        },
+        {
+            "name": "Business Management",
+            "children": [
+                {
+                    "name": "Corporate Events"
+                },
+                {
+                    "name": "Hotels"
+                },
+                {
+                    "name": "AV"
+                },
+                {
+                    "name": "Hospitality"
+                }
+            ]
+        },
+        {
+            "name": "Administración",
+            "children": [
+                {
+                    "name": "Corporate Events"
+                },
+                {
+                    "name": "Hotels"
+                },
+                {
+                    "name": "AV"
+                },
+                {
+                    "name": "Hospitality"
+                }
+            ]
+        },
+        {
+            "name": "Ciencias de la Comunicación",
+            "children": [
+                {
+                    "name": "Corporate Events"
+                },
+                {
+                    "name": "Hotels"
+                },
+                {
+                    "name": "AV"
+                },
+                {
+                    "name": "Hospitality"
+                }
+            ]
+        },
+        {
+            "name": "Licenciado",
+            "children": [
+                {
+                    "name": "Redacción"
+                },
+                {
+                    "name": "Investigación"
+                },
+                {
+                    "name": "Creación"
+                },
+                {
+                    "name": "Public Relations"
+                }
+            ]
+        },
+        {
+            "name": "Diploma",
+            "children": [
+                {
+                    "name": "Redacción"
+                },
+                {
+                    "name": "Investigación"
+                },
+                {
+                    "name": "Creación"
+                },
+                {
+                    "name": "Public Relations"
+                }
+            ]
+        },
+        {
+            "name": "Master of Business Administration (MBA)",
+            "children": [
+                {
+                    "name": "Business"
+                },
+                {
+                    "name": "Infrastructure Services"
+                },
+                {
+                    "name": "Cross-functional Team..."
+                },
+                {
+                    "name": "Team Leadership"
+                }
+            ]
+        },
+        {
+            "name": "Computer systems engineer",
+            "children": [
+                {
+                    "name": "Business"
+                },
+                {
+                    "name": "Infrastructure Services"
+                },
+                {
+                    "name": "Cross-functional Team..."
+                },
+                {
+                    "name": "Team Leadership"
+                }
+            ]
+        },
+        {
+            "name": "LICENCIADA EN PSICOLOGIA",
+            "children": [
+                {
+                    "name": "Psychology"
+                },
+                {
+                    "name": "Psychometrics"
+                },
+                {
+                    "name": "Coordination"
+                },
+                {
+                    "name": "Recruiting"
+                }
+            ]
+        },
+        {
+            "name": "Diplomada en Psicoterapia Psicoanalitica en Niños y Adolescentes",
+            "children": [
+                {
+                    "name": "Psychology"
+                },
+                {
+                    "name": "Psychometrics"
+                },
+                {
+                    "name": "Coordination"
+                },
+                {
+                    "name": "Recruiting"
+                }
+            ]
+        },
+        {
+            "name": "Servicio Social",
+            "children": [
+                {
+                    "name": "Psychology"
+                },
+                {
+                    "name": "Psychometrics"
+                },
+                {
+                    "name": "Coordination"
+                },
+                {
+                    "name": "Recruiting"
+                }
+            ]
+        },
+        {
+            "name": "MBA",
+            "children": [
+                {
+                    "name": "Strategic Planning"
+                },
+                {
+                    "name": "New Business Development"
+                },
+                {
+                    "name": "Corporate Finance"
+                },
+                {
+                    "name": "Presentation Development"
+                }
+            ]
+        },
+        {
+            "name": "BBA",
+            "children": [
+                {
+                    "name": "Strategic Planning"
+                },
+                {
+                    "name": "New Business Development"
+                },
+                {
+                    "name": "Corporate Finance"
+                },
+                {
+                    "name": "Presentation Development"
+                }
+            ]
+        },
+        {
+            "name": "Universitario",
+            "children": [
+                {
+                    "name": "Business Intelligence"
+                },
+                {
+                    "name": "Microsoft SQL Server"
+                },
+                {
+                    "name": "Team Leadership"
+                },
+                {
+                    "name": "Oracle"
+                }
+            ]
+        },
+        {
+            "name": "Lic en Psicología",
+            "children": [
+                {
+                    "name": "Reclutamiento y..."
+                },
+                {
+                    "name": "MIS"
+                },
+                {
+                    "name": "HR Consulting"
+                },
+                {
+                    "name": "Assessment Center"
+                }
+            ]
+        },
+        {
+            "name": "Human Development Degree",
+            "children": [
+                {
+                    "name": "Human Resources"
+                },
+                {
+                    "name": "Training"
+                },
+                {
+                    "name": "Hospitality"
+                },
+                {
+                    "name": "Graphic Design"
+                }
+            ]
+        },
+        {
+            "name": "Logotheraphy Degree (Dr.Viktor Frankl)",
+            "children": [
+                {
+                    "name": "Human Resources"
+                },
+                {
+                    "name": "Training"
+                },
+                {
+                    "name": "Hospitality"
+                },
+                {
+                    "name": "Graphic Design"
+                }
+            ]
+        },
+        {
+            "name": "Graphic Designer & Visual Arts",
+            "children": [
+                {
+                    "name": "Human Resources"
+                },
+                {
+                    "name": "Training"
+                },
+                {
+                    "name": "Hospitality"
+                },
+                {
+                    "name": "Graphic Design"
+                }
+            ]
+        },
+        {
+            "name": "Master Hypnotist",
+            "children": [
+                {
+                    "name": "Microsoft Excel"
+                },
+                {
+                    "name": "Photoshop"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "NLP Trainer, Business..."
+                }
+            ]
+        },
+        {
+            "name": "Licenciatura en Ciencias de la Comunicación",
+            "children": [
+                {
+                    "name": "Microsoft Excel"
+                },
+                {
+                    "name": "Photoshop"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "NLP Trainer, Business..."
+                }
+            ]
+        },
+        {
+            "name": "Licensed Trainer of NLP",
+            "children": [
+                {
+                    "name": "Microsoft Excel"
+                },
+                {
+                    "name": "Photoshop"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "NLP Trainer, Business..."
+                }
+            ]
+        },
+        {
+            "name": "Maestría",
+            "children": [
+                {
+                    "name": "Capacity Analysis"
+                },
+                {
+                    "name": "Capacity Development"
+                },
+                {
+                    "name": "Employee Relations"
+                },
+                {
+                    "name": "Customer rea"
+                }
+            ]
+        },
+        {
+            "name": "Licenciatura",
+            "children": [
+                {
+                    "name": "Capacity Analysis"
+                },
+                {
+                    "name": "Capacity Development"
+                },
+                {
+                    "name": "Employee Relations"
+                },
+                {
+                    "name": "Customer rea"
+                }
+            ]
+        },
+        {
+            "name": "Maestría en Informática Administrativa",
+            "children": [
+                {
+                    "name": "Program Management"
+                },
+                {
+                    "name": "Functional..."
+                },
+                {
+                    "name": "Software Project..."
+                },
+                {
+                    "name": "Functional Analysis"
+                }
+            ]
+        },
+        {
+            "name": "Licenciado en Sistemas de Computación Administrativa",
+            "children": [
+                {
+                    "name": "Program Management"
+                },
+                {
+                    "name": "Functional..."
+                },
+                {
+                    "name": "Software Project..."
+                },
+                {
+                    "name": "Functional Analysis"
+                }
+            ]
+        },
+        {
+            "name": "Industrial Engineer",
+            "children": [
+                {
+                    "name": "FMCG"
+                },
+                {
+                    "name": "Trade Marketing"
+                },
+                {
+                    "name": "Pricing"
+                },
+                {
+                    "name": "Cross-functional Team..."
+                }
+            ]
+        },
+        {
+            "name": "Licenciatura",
+            "children": []
+        },
+        {
+            "name": "Licenciado en Publicidad",
+            "children": []
+        },
+        {
+            "name": "Licenciatura en Economía",
+            "children": [
+                {
+                    "name": "Negociación"
+                },
+                {
+                    "name": "Planificación..."
+                },
+                {
+                    "name": "Redes sociales"
+                },
+                {
+                    "name": "Mercadotecnia en medios..."
+                }
+            ]
+        },
+        {
+            "name": "Diplomado",
+            "children": [
+                {
+                    "name": "Negociación"
+                },
+                {
+                    "name": "Planificación..."
+                },
+                {
+                    "name": "Redes sociales"
+                },
+                {
+                    "name": "Mercadotecnia en medios..."
+                }
+            ]
+        },
+        {
+            "name": "Opinión",
+            "children": [
+                {
+                    "name": "Negociación"
+                },
+                {
+                    "name": "Planificación..."
+                },
+                {
+                    "name": "Redes sociales"
+                },
+                {
+                    "name": "Mercadotecnia en medios..."
+                }
+            ]
+        },
+        {
+            "name": "Conferencia",
+            "children": [
+                {
+                    "name": "Negociación"
+                },
+                {
+                    "name": "Planificación..."
+                },
+                {
+                    "name": "Redes sociales"
+                },
+                {
+                    "name": "Mercadotecnia en medios..."
+                }
+            ]
+        },
+        {
+            "name": "Capacitación",
+            "children": [
+                {
+                    "name": "Negociación"
+                },
+                {
+                    "name": "Planificación..."
+                },
+                {
+                    "name": "Redes sociales"
+                },
+                {
+                    "name": "Mercadotecnia en medios..."
+                }
+            ]
+        },
+        {
+            "name": "Capacitación",
+            "children": [
+                {
+                    "name": "Negociación"
+                },
+                {
+                    "name": "Planificación..."
+                },
+                {
+                    "name": "Redes sociales"
+                },
+                {
+                    "name": "Mercadotecnia en medios..."
+                }
+            ]
+        },
+        {
+            "name": "Licentiate degree",
+            "children": [
+                {
+                    "name": "Human Resources"
+                },
+                {
+                    "name": "Headhunt"
+                },
+                {
+                    "name": "Talent Acquisition"
+                },
+                {
+                    "name": "Employee Engagement"
+                }
+            ]
+        },
+        {
+            "name": "Lic. Ciencias de la comunicacion",
+            "children": [
+                {
+                    "name": "Social Media"
+                },
+                {
+                    "name": "Advertising"
+                },
+                {
+                    "name": "Marketing Strategy"
+                },
+                {
+                    "name": "Online Advertising"
+                }
+            ]
+        },
+        {
+            "name": "Ciencias de la Comunicacion",
+            "children": [
+                {
+                    "name": "Social Media"
+                },
+                {
+                    "name": "Advertising"
+                },
+                {
+                    "name": "Marketing Strategy"
+                },
+                {
+                    "name": "Online Advertising"
+                }
+            ]
+        },
+        {
+            "name": "Licentiate degree",
+            "children": [
+                {
+                    "name": "Marketing Strategy"
+                },
+                {
+                    "name": "Digital Marketing"
+                },
+                {
+                    "name": "Product Marketing"
+                },
+                {
+                    "name": "Market Research"
+                }
+            ]
+        },
+        {
+            "name": "Licenciatura en Mercadotecnia Internacional",
+            "children": [
+                {
+                    "name": "Marketing Strategy"
+                },
+                {
+                    "name": "Digital Marketing"
+                },
+                {
+                    "name": "Product Marketing"
+                },
+                {
+                    "name": "Market Research"
+                }
+            ]
+        },
+        {
+            "name": "Licenciatura Ingeniería en Computación",
+            "children": [
+                {
+                    "name": "redes de datos"
+                },
+                {
+                    "name": "seguridad de la..."
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "Wireless Networking"
+                }
+            ]
+        },
+        {
+            "name": "Ingeniero Industrial y de Sistemas",
+            "children": []
+        },
+        {
+            "name": "Ing. en Sistemas Computacionales",
+            "children": [
+                {
+                    "name": "Desarrollo web"
+                },
+                {
+                    "name": "Diseño web"
+                },
+                {
+                    "name": "Mercadotecnia en medios..."
+                },
+                {
+                    "name": "Publicidad"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "children": [
+                {
+                    "name": "NOMs"
+                },
+                {
+                    "name": "NAFTA"
+                },
+                {
+                    "name": "Customs Compliance"
+                },
+                {
+                    "name": "Audit Procedures"
+                }
+            ]
+        },
+        {
+            "name": "Post-Degree in High Management",
+            "children": [
+                {
+                    "name": "NOMs"
+                },
+                {
+                    "name": "NAFTA"
+                },
+                {
+                    "name": "Customs Compliance"
+                },
+                {
+                    "name": "Audit Procedures"
+                }
+            ]
+        },
+        {
+            "name": "Valuation Expert",
+            "children": [
+                {
+                    "name": "NOMs"
+                },
+                {
+                    "name": "NAFTA"
+                },
+                {
+                    "name": "Customs Compliance"
+                },
+                {
+                    "name": "Audit Procedures"
+                }
+            ]
+        },
+        {
+            "name": "Bachelor's Degree",
+            "children": [
+                {
+                    "name": "NOMs"
+                },
+                {
+                    "name": "NAFTA"
+                },
+                {
+                    "name": "Customs Compliance"
+                },
+                {
+                    "name": "Audit Procedures"
+                }
+            ]
+        },
+        {
+            "name": "Technical Degree",
+            "children": [
+                {
+                    "name": "NOMs"
+                },
+                {
+                    "name": "NAFTA"
+                },
+                {
+                    "name": "Customs Compliance"
+                },
+                {
+                    "name": "Audit Procedures"
+                }
+            ]
+        },
+        {
+            "name": "Technical",
+            "children": [
+                {
+                    "name": "NOMs"
+                },
+                {
+                    "name": "NAFTA"
+                },
+                {
+                    "name": "Customs Compliance"
+                },
+                {
+                    "name": "Audit Procedures"
+                }
+            ]
+        },
+        {
+            "name": "Cadet",
+            "children": [
+                {
+                    "name": "NOMs"
+                },
+                {
+                    "name": "NAFTA"
+                },
+                {
+                    "name": "Customs Compliance"
+                },
+                {
+                    "name": "Audit Procedures"
+                }
+            ]
+        }
+    ]
+}

@@ -1,11 +1,40 @@
 class InfoControllerController < ApplicationController
-before_action :get_json
+before_action :set_json#:get_json
 
 	def index
 	  
 	end
 
 	private
+
+
+  def set_json
+   a =  '{
+      "name": "Data",
+      "children": ['
+        Education.pluck(:degree, :key).uniq.each do |algo|
+          unless algo[0].nil?
+             a+='{"name":"'+ "#{algo[0]}"+'",'+'"children": ['
+            Skill.where(key: algo[1]).uniq.each_with_index do |skill, index|
+                if index <= 3
+                  a+='{"name":"'+ "#{skill.name}"+ '"}'
+                end
+               if index < 3
+                 a+= ','
+               end
+            end
+            a+=']
+          },'
+          end
+        end
+
+     b = ']
+    }'
+    puts a+b
+
+    
+  end
+
 	def get_json
     delete_all_data
 	    source = "lib/inputs/data.json"
