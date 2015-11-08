@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  key: 1
+  degree: MyText
+  end_date: MyString
+
+two:
+  key: 1
+  degree: MyText
+  end_date: MyString
